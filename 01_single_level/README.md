@@ -1,6 +1,4 @@
-# hello cmake工程目录
-介绍如何使用cmake对c和cpp工程项目进行编译，每个子节都只包含几个知识点，循循渐进，学习起来无压力。
-## 01_single_level
+# 01_single_level
 这一小节介绍如何使用cmake对cpp工程进行编译
 ```bash
     cd 01_single_level
